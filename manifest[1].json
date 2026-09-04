@@ -1,0 +1,17 @@
+{
+  "name": "Étiquettes prix + code-barres — Narbonne Accessoires",
+  "short_name": "Étiquettes NA",
+  "description": "Génération et impression d'étiquettes prix avec code-barres EAN-13 ou Code 39.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef1f4",
+  "theme_color": "#0E2C49",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
